@@ -1,6 +1,6 @@
 # xui
 ```
-apt-get update -y; apt-get upgrade -y; sudo wget https://raw.githubusercontent.com/9ymt5nnh1/xui/main/setup.sh; chmod 777 setup.sh; ./setup.sh
+apt-get update -y; apt-get upgrade -y; sudo wget https://raw.githubusercontent.com/9ymt5nnh1/xui/main/setup; chmod 777 setup; ./setup
 ```
 
 ```
